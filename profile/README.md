@@ -20,8 +20,10 @@
 
 **Maintainer**: [@ligen131](https://github.com/ligen131)
 
+For more contributors, see <https://hustacm.com/Contributor/>. We sincerely thank everyone who has contributed to this organization.
+
 ### CONTRIBUTING
 
-如果你是 HUSTACM 集训队一员，并且希望在你的 GitHub 账号上添加 HUSTACM 组织标识，请参见 CONTRIBUTING.md 指引贡献，我们将会邀请您成为我们组织的成员。
+如果你有任何的建议、提案，抑或者你是 HUSTACM 集训队一员，并且希望在你的 GitHub 账号上添加 HUSTACM 组织标识，请参见 [CONTRIBUTING.md](https://github.com/HUSTACM/.github/blob/main/profile/CONTRIBUTING.md) 指引进行贡献，**一旦你的 PR 被允许合并**，我们将会邀请您成为我们组织的成员。
 
-我们希望这个组织能够继续发展壮大，并且有人能够持续维护该组织的项目。继任队长若有需要域名、邮箱、GitHub 组织等服务，请联系现任维护者：[i@ligen131.com](mailto:i@ligen131.com)。
+我们希望这个组织能够继续发展壮大，并且有人能够持续维护该组织的项目，我们非常需要你的支持。继任队长若有需要域名、邮箱、GitHub 组织等服务，请联系现任维护者：[i@ligen131.com](mailto:i@ligen131.com)。
